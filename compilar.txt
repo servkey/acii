@@ -1,0 +1,22 @@
+$ arm-linux-androideabi-ld -o hola.exe hola.S
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ notepad hola.s
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ notepad hola.S
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ notepad hola.s
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ arm-linux-androideabi-as -o holaobj.S hola.s
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ arm-linux-androideabi-ld -o hola.exe holaobj.S
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ notepad hola.s
+
+servkey@servkey-xps /cygdrive/c/developer/android-ndk-r8d
+$ arm-linux-androideabi-as -o holaobj.S hola.s
