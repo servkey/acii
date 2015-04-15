@@ -1,0 +1,1 @@
+Conocimiento y comprensión de los procesos de intercambio de información a bajo nivel por medio de instrucciones en lenguaje máquina en la arquitectura de los procesadores x86 de la familia Intel y compatibles, de manera que pueda programarlos para fines específicos, mostrando actitudes de colaboración, meticulosidad y creatividad.
